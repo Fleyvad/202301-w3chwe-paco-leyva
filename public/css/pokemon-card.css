@@ -1,0 +1,11 @@
+.pokemon-card__container {
+  width: 30%;
+  background-color: bisque;
+  border-radius: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin: 0.5rem;
+}
+
+.pokemon-card__img {
+  width: 80%;
+}
